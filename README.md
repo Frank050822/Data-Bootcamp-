@@ -9,7 +9,7 @@ Data Filtering: FT & PT
 
 Exploratory Data Analysis
   1.1 Data Visualization
-      1.1.1 Age
+      # 1.1.1 Age
       1.1.2 Gender
       1.1.3 Education
       1.1.4 Position

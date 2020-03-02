@@ -1,8 +1,7 @@
 # Data-Bootcamp
 # This is for Stern Course ECON.GB-2313 Data Bootcamp Final Project
  
-# Project Structure
-
+### Project Structure
 1.Data Cleaning
 2.Data Filtering
 3. Exploratory Data Analysis: Data Visualization / Data Analysis

@@ -2,4 +2,4 @@
 
 1. Exploratory Data Analysis 
 2. Regression 
-3. Simple Machine Learning Model 
+3. Simple Machine Learning Models 

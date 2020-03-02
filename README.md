@@ -8,15 +8,13 @@ Data Cleaning: DB
 Data Filtering: FT & PT
 
 Exploratory Data Analysis
-
-1.1 Data Visualization
-
-1.1.1 Age
-1.1.2 Gender
-1.1.3 Education
-1.1.4 Position
-1.1.5 Location
-1.2 Data Analysis
+  1.1 Data Visualization
+      1.1.1 Age
+      1.1.2 Gender
+      1.1.3 Education
+      1.1.4 Position
+      1.1.5 Location
+  1.2 Data Analysis
 
 1.2.1 Total Wages with Position
 1.2.2 Total Wages with Education
